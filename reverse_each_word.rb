@@ -10,6 +10,7 @@ def reverse_each_word(string)
 end
 
 #Collect Method
+#YOU CAN APPARENTLy NAME METHODS THE SAME THING IN THE SAME FILE LUL!!!!
 
 def reverse_each_word(string)
   array = string.split(" ")
